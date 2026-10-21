@@ -1,0 +1,10 @@
+{
+  "extraKnownMarketplaces": {
+    "model-badge-local": {
+      "source": { "source": "github", "repo": "DROIDLOOT/claude-local-mods" }
+    }
+  },
+  "enabledPlugins": {
+    "model-badge@model-badge-local": true
+  }
+}
